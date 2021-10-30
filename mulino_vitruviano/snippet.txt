@@ -1,0 +1,60 @@
+<model-viewer src="mappa_acquedotto.glb" camera-controls ar ar-modes="scene-viewer webxr quick-look" camera-target="-0.6m 0.6m -0.5m" min-camera-orbit="auto 0deg auto" max-camera-orbit="auto 90deg 2.403m" camera-orbit="55.29deg 69.75deg 2.403m" poster="poster.png">
+    <button class="Hotspot" slot="hotspot-1" data-position="-0.022737721522617105m 0.8421375100194622m -0.43648088327153356m" data-normal="0.07085367738870176m 0.9973224639350334m -0.018101362684941082m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Sorgenti del Volturno
+            548 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-3" data-position="0.04921936884916911m 0.840464572119757m -0.3697390949658723m" data-normal="0.10509389072367961m 0.987861031237159m 0.11439343117336806m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Masseria Acquanascosa
+            543 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-4" data-position="0.04675696507125193m 0.840892270725245m -0.42348906184813156m" data-normal="-0.00909034669632418m 0.9999043063733676m 0.010428024402314214m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari a 0,055%</div>
+    </button><button class="Hotspot" slot="hotspot-5" data-position="0.07602275998559826m 0.8315168353359519m -0.3173275710377593m" data-normal="-0.022272555216167493m 0.98736873998856m 0.1568658808586055m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Rio di Rocchetta
+            355 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-6" data-position="0.072113017079517m 0.8352288418977573m -0.34160074902507637m" data-normal="0.32668976015838747m 0.9305612949314906m 0.16531629376163395m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Salti a diversa pendenza pari a 25% - 7% - 20% - 8% - 24%</div>
+    </button><button class="Hotspot" slot="hotspot-9" data-position="0.07611316380228283m 0.8307694067464344m -0.28181662663553864m" data-normal="0.08863061059967899m 0.993321711572443m 0.07386874970866034m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Ponte Rotto
+            350 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-10" data-position="0.08413608364817804m 0.8313565382224626m -0.2970188910053467m" data-normal="0.14201315095942546m 0.9763085850111597m 0.16325995157442183m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari all'1%</div>
+    </button><button class="Hotspot" slot="hotspot-11" data-position="0.09972802464819897m 0.8302779238310746m -0.21280296391265685m" data-normal="0.37273303648438993m 0.927938154136937m -0.0009303816748286423m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Ponte a Sbieco
+            339 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-12" data-position="0.045898207343826325m 0.8316269597837218m -0.24318499851191133m" data-normal="-0.01630729167939649m 0.949257964392925m 0.3140754515632884m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari allo 0,2%</div>
+    </button><button class="Hotspot" slot="hotspot-13" data-position="0.17510682143037914m 0.8283604475151557m -0.13040612588025946m" data-normal="0.026216161825926385m 0.9979465653001998m 0.058441129905665495m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Rio Chiaro
+            294 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-14" data-position="0.15358376523232942m 0.8300219425406828m -0.17218132822952592m" data-normal="0.3753552954419047m 0.8947234414496509m -0.24202967897390978m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari al 2,7%</div>
+    </button><button class="Hotspot" slot="hotspot-15" data-position="0.18329988423686527m 0.8281220437092488m -0.10301891033020383m" data-normal="0.20401557793241995m 0.9788917242132534m 0.012191645816085714m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Ponte Canale
+            286 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-16" data-position="0.18426279842907267m 0.8286981423962028m -0.11431170747895136m" data-normal="0.22916200503768516m 0.9723092158694364m -0.04582100154372133m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari allo 0,4%</div>
+    </button><button class="Hotspot" slot="hotspot-17" data-position="0.18259950144401993m 0.8282055644271757m 0.14274198563037188m" data-normal="0.550057725579497m 0.8309609032729397m 0.08330951783638522m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Roccaravindola
+            27 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-18" data-position="0.16161909126433205m 0.8284318181711675m 0.014621732855902625m" data-normal="0.03519707304846952m 0.9959162949953542m 0.08313783381558326m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari allo 0,4%</div>
+    </button><button class="Hotspot" slot="hotspot-20" data-position="-0.07341653462043352m 0.8264662673824991m 0.23605545685926888m" data-normal="0.04776028592206796m 0.9986619983655711m 0.01982846714011403m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pozzilli
+            230 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-21" data-position="0.073668049999284m 0.8257192516357912m 0.20932751155661922m" data-normal="0.08047183516439982m 0.9959714096766245m 0.0395630490739968m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari allo 0,62%</div>
+    </button><button class="Hotspot" slot="hotspot-23" data-position="-0.13883182760518292m 0.8264124567726606m 0.35758179022609893m" data-normal="0.056071777641017305m 0.9738440449620843m 0.22019021741226896m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Venafro
+            225 m s.l.m.</div>
+    </button><button class="Hotspot" slot="hotspot-24" data-position="-0.08598770559444413m 0.8256297657914737m 0.29878886291804285m" data-normal="0.165362340583462m 0.9842017353491244m 0.0632632630563089m" data-visibility-attribute="visible">
+        <div class="HotspotAnnotation">Pendenza pari allo 0,12%</div>
+    </button>
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
